@@ -2,6 +2,6 @@
 
 namespace App\Http\Controllers;
 
-class UserListing extends Controller
+class HomeController extends Controller
 {
 }

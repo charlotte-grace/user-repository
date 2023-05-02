@@ -4,7 +4,7 @@ use PhpCsFixer\Config;
 use PhpCsFixer\Finder;
 
 $rules = [
-    '@PSR12' => true,
+    '@PSR2' => true,
     'array_syntax' => ['syntax' => 'short'],
     'blank_line_after_namespace' => true,
     'blank_line_before_statement' => [
